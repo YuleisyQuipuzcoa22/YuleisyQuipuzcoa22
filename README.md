@@ -2,10 +2,10 @@
 <h3 align="center">Soy estudiante de Ing. de Sistemas, me gusta el desarrollo web, especialmente el Frontend.</h3>
 
 - 🌱 Tengo conocimiento y experiencia práctica en **Node.js, Nest, Express, JavaScript, TypeScript, Python, Java, Spring Boot.**
+- - Conozco y he usado librería de Frontend como **React, Angular**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/YuleisyQuipuzcoa22](https://github.com/YuleisyQuipuzcoa22)
 
-- Conozco y he usado librería de Frontend como **React, Angular**
 
 - 📫 Puedes contactarme en **yuleisyquipuzcoa.lo@gmail.com**
 
