@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Yuleisy Quipuzcoa</h1>
-<h2 align="center">Soy estudiante de 8° ciclo de Ing. de Sistemas, me gusta el desarrollo web, sobretodo el Frontend pero en el backend no me va mal :D </h2>
+<h2 align="center">Soy estudiante de 9° ciclo de Ing. de Sistemas, me gusta el desarrollo web, sobretodo el Frontend pero en el backend no me va mal :D </h2>
 
 - 🌱 Tengo conocimiento y experiencia práctica en **Node.js, Nest, Express, JavaScript, TypeScript, Python, Java, Spring Boot.**
 - Asimismo, he usado librerías de Frontend como **React, Angular**
